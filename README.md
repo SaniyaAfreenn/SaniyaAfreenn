@@ -40,3 +40,7 @@ A technology-driven platform designed to connect workers with suitable employmen
 ## Objective
 
 To continuously strengthen my technical skills, build meaningful projects, and develop practical solutions using technology.
+
+## Portfolio
+
+[View My Portfolio](https://saniyaafreenn.github.io/saniya-afreen-portfolio2/)
